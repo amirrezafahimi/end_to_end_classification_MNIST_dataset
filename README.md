@@ -1,2 +1,4 @@
 # end_to_end_classification_MNIST_dataset
-Classification problem
+## Classification problem
+
+Unlike my other projects where I devote my time to preprocess, find a good model and fine tune it to get better predictions, in this project, I tried to have deep dive in metrics and resampling methods. Here I try to underestand what precision, recall and and other metrics roll in finding a good model and finding out if model is performing good enough. download the notebook and have fun. 
